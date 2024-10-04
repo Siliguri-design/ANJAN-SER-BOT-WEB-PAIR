@@ -6,7 +6,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 
-IMG: process.env.IMG=`https://i.imgur.com/ltPPMTh.jpeg`,
+IMG: process.env.IMG=`https://i.imgur.com/e1kk38l.jpeg`,
 CAPTION: process.env.CAPTION=`*»͜͡𝐀𝐍𝐉𝐀𝐍-𝐒𝐄𝐑-𝐁𝐎𝐓☪︎ੵ᷒ᰰ 𝐒𝐄𝐒𝐒𝐈𝐎𝐍-𝐈𝐃*\n\n_🪄 ᴅᴏɴ'ᴛ ꜱʜᴀʀᴇ ʏᴏᴜʀ ꜱᴇꜱꜱɪᴏɴ ɪᴅ ᴡɪᴛʜ ᴀɴʏᴏɴᴇ_`,
 //----------------------------------------------------------------------------------------
 
