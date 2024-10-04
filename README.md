@@ -22,7 +22,7 @@ Welcome to the **Pair Code** project for **ANJAN-SER-BOT**.
     
 | <a href="https://github.com/Siliguri-design"><img src="https://i.imgur.com/LF6D1VN.jpeg" width=100 height=100></a> |
 |---|
-| **[Vishwa Mihiranga](https://github.com/Siliguri-design)**</br>Developer</br>*[ANJAN DHAR]* |
+| **[ANJAN DHAR](https://github.com/Siliguri-design)**</br>Developer</br>*[ANJAN DHAR]* |
   </p>
 
 
